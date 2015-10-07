@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe0e1be-87e5-4d56-bf3e-3305318c6515" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebFlask.iws" />
@@ -862,7 +860,7 @@
       <workItem from="1444055028729" duration="5561000" />
       <workItem from="1444116940801" duration="1522000" />
       <workItem from="1444207008297" duration="1391000" />
-      <workItem from="1444209189640" duration="1225000" />
+      <workItem from="1444209189640" duration="1319000" />
     </task>
     <task id="LOCAL-00001" summary="dsds">
       <created>1444211734210</created>
@@ -870,11 +868,17 @@
       <option name="project" value="LOCAL" />
       <updated>1444211734210</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deployes">
+      <created>1444212518425</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1444212518425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15595000" />
+    <option name="totallyTimeSpent" value="15689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -920,7 +924,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dsds" />
-    <option name="LAST_COMMIT_MESSAGE" value="dsds" />
+    <MESSAGE value="Deployes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deployes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
